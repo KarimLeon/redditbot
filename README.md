@@ -11,7 +11,7 @@ Install
 
 
 
-Useage
+Usage
 ======
 ```code
 ```
