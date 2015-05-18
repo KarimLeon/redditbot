@@ -1,6 +1,6 @@
 Redditbot
 =========
-A python implmentation of a Sub-Reddit reader bot. Returns
+A javascript implmentation of a Sub-Reddit reader bot. Returns
 stories matching a user provide list
 
 
