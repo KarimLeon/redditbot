@@ -1,0 +1,16 @@
+{
+  "sub-reddits":{
+    "nba":{
+      "url":"http://reddit.com/r/nba/.json",
+      "terms":"jebron, james, curry" 
+    },
+    "programming":{
+      "url":"http://reddit.com/r/programming/.json",
+      "terms":"ruby, python, javascript" 
+     },
+    "pics":{
+       "url": "https://www.reddit.com/r/pics/.json",
+       "terms": "animal,car,funny"
+     }
+  }
+}
