@@ -1,0 +1,12 @@
+{
+  "name": "RedditBot",
+  "description": "A bot that reads Reddit",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/KarimLeon/redditbot.git"
+  },
+  "dependencies": {
+    "request": "2.55.0"
+  }
+}
