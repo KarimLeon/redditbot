@@ -11,6 +11,11 @@
     "pics":{
        "url": "https://www.reddit.com/r/pics/.json",
        "terms": "trees, car, funny"
-     }
+     },
+    "animals":{
+       "url": "httpss://www.reddit.com/r/Animals/.json",
+       "terms": "snake, shark, lion"
+     }  
+
   }
 }
